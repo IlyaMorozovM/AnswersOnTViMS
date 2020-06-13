@@ -235,6 +235,7 @@ P(AB) = P(A)*P(B)
 Сама теорема:
 
 ![Alt text](/muavr.png?raw=true "muavr")
+![Alt text](/muavra2.png?raw=true "muavra2")
 
 Типичная задача, приводящая к теореме (+ пункт Б из примера выше):
 
