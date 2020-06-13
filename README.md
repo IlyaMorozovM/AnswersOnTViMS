@@ -185,7 +185,11 @@ P(AB) = P(A)*P(B)
 
 •	априорные вероятности
 
+![Alt text](/ap.png?raw=true "ap")
+
 •	апостериорные вероятности
+
+![Alt text](/apos.png?raw=true "apos")
 
 **Лекция 4**
 
