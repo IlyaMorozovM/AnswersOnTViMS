@@ -315,7 +315,9 @@ f(x) = F'(x)=dF(x)/dx
 
 1.f(x)>=0
 
-2.![Alt text](/4.11REAL.png?raw=true "4.11REAL")
+2.
+
+![Alt text](/4.11REAL.png?raw=true "4.11REAL")
 
 ## **Лекция 6**
 ### числовые характеристики положения 
