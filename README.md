@@ -133,6 +133,8 @@ P(A + B) = P(A) + P(B).
 
 ![Alt text](/slosh.png?raw=true "slosh")
 
+![Alt text](/vkliskl.png?raw=true "vkliskl")
+
 **Лекция 3**
 •	понятие условной вероятности 
 •	понятие независимости событий;
