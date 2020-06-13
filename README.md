@@ -225,7 +225,7 @@ P(AB) = P(A)*P(B)
 
 ![Alt text](/x.png?raw=true "x")
 
-Типичная задача, приводящая к теореме:
+Типичная задача, приводящая к теореме (пункт а):
 
 ![Alt text](/primer.png?raw=true "primer")
 
