@@ -224,6 +224,7 @@ P(AB) = P(A)*P(B)
 Сама теорема с вводимым x:
 
 ![Alt text](/x.png?raw=true "x")
+![Alt text](/muavra.png?raw=true "muavra")
 
 Типичная задача, приводящая к теореме (пункт а):
 
@@ -234,8 +235,6 @@ P(AB) = P(A)*P(B)
 Сама теорема:
 
 ![Alt text](/muavr.png?raw=true "muavr")
-
-![Alt text](/muavra.png?raw=true "muavra")
 
 Типичная задача, приводящая к теореме (+ пункт Б из примера выше):
 
